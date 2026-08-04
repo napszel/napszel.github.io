@@ -3,3 +3,9 @@ Thumbs.db
 ._*
 *.tmp
 *.filepart
+
+# Backcast local/secrets
+backcast/weather_apikey
+backcast/backend/weather_apikey
+backcast/backend/*.key
+backcast/backend/*.secret

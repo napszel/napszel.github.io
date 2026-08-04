@@ -1,0 +1,80 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+  
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=windows-1252"/>
+    <title>~ Napszel ~</title>
+    <link href="style.css" rel="stylesheet" type="text/css" media="screen"/>
+    <link href="css/weather_icons.css" rel="stylesheet" type="text/css"/>
+    <link rel="shortcut icon" href="favicon.png" type="image/png"/>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
+    <script src="generated/weather_data.js"></script>
+    <script src="javascript.js"></script>
+  </head>
+  
+  <body>
+    <div id="wrapper">
+      
+      <div id="header">
+	<div id="logo">
+	  <img src="images/backcast.png"></img>
+	</div>
+      </div> <!-- end #header -->
+
+      <div id="menu">
+	<ul>
+	  <li><a id="zurich" href="index.html#zurich">Zürich</a></li>
+	  <li><a id="budapest" href="index.html#budapest">Budapest</a></li>
+	  <li><a id="balatonederics" href="index.html#balatonederics">Balatonederics</a></li>
+	  <li><a id="krakow" href="index.html#krakow">Kraków</a></li>
+	  <li><a id="mounteverest" href="index.html#mounteverest">Mount Everest</a></li>
+	</ul>
+      </div> <!-- end #menu -->
+            
+      <div id="page">
+	<div id="content">
+
+	  <div id="weather_today">
+	    <h2 id="city_title"></h2> <!-- filled by js -->
+	    <div id="city_weather"></div> <!-- filled by js -->
+	  </div>
+
+	  <div id="casts-wrapper">
+
+	    <div id="backcasts-container">
+	      <div>
+		<h3>Backcasts</h3>
+		<div class="tooltip">
+		  <label id="questionmark">&#65533;</label>
+		  <span class="tooltiptext"> The weather predictions for today from the past 7 days</span>
+		</div>
+	      </div>
+	      <!-- filled by js -->
+	      <div id="backcasts">
+	      </div>
+	    </div>
+
+	    <div id="forecasts-container">
+	      <div>
+		<h3>Forecasts</h3>
+	      </div>
+	      <!-- filled by js -->
+	      <div id="forecasts">
+	      </div>
+	    </div>
+
+	  </div> <!-- end casts-wrapper -->
+	</div> <!-- end content -->
+      </div> <!-- end page -->
+      
+    </div> <!-- end wrapper -->   
+    
+    <div id="footer-content">
+      <div class="text">
+	<a href="https://github.com/napszel/backcast"><p>2020, eva@napszel.com</p></a>
+      </div>
+    </div>
+    
+  </body>
+</html>
