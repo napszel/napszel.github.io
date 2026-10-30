@@ -1,0 +1,46 @@
+@font-face {
+  font-family: 'Nunito Sans';
+  font-style: italic;
+  font-weight: 400;
+  src: url(https://web.archive.org/web/20210318011558im_/https://fonts.gstatic.com/s/nunitosans/v6/pe0oMImSLYBIv1o4X1M8cce4E9lKcw.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Nunito Sans';
+  font-style: italic;
+  font-weight: 700;
+  src: url(https://web.archive.org/web/20210318011558im_/https://fonts.gstatic.com/s/nunitosans/v6/pe01MImSLYBIv1o4X1M8cce4G2JvY1MIVw.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Nunito Sans';
+  font-style: normal;
+  font-weight: 400;
+  src: url(https://web.archive.org/web/20210318011558im_/https://fonts.gstatic.com/s/nunitosans/v6/pe0qMImSLYBIv1o4X1M8cce9I94.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Nunito Sans';
+  font-style: normal;
+  font-weight: 700;
+  src: url(https://web.archive.org/web/20210318011558im_/https://fonts.gstatic.com/s/nunitosans/v6/pe03MImSLYBIv1o4X1M8cc8GBs5tU1Q.ttf) format('truetype');
+}
+
+/*
+     FILE ARCHIVED ON 01:15:58 Mar 18, 2021 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 17:48:41 Sep 03, 2021.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+*/
+/*
+playback timings (ms):
+  esindex: 0.011
+  LoadShardBlock: 707.345 (3)
+  captures_list: 778.216
+  CDXLines.iter: 25.579 (3)
+  PetaboxLoader3.datanode: 727.65 (5)
+  PetaboxLoader3.resolve: 566.716 (2)
+  RedisCDXSource: 2.044
+  exclusion.robots: 0.214
+  load_resource: 741.398 (2)
+  exclusion.robots.policy: 0.201
+*/

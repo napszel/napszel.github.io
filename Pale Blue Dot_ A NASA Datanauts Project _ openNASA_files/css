@@ -1,0 +1,52 @@
+@font-face {
+  font-family: 'Titillium Web';
+  font-style: italic;
+  font-weight: 400;
+  src: url(https://web.archive.org/web/20210318001149im_/https://fonts.gstatic.com/s/titilliumweb/v9/NaPAcZTIAOhVxoMyOr9n_E7fdMbWD6xT.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Titillium Web';
+  font-style: normal;
+  font-weight: 400;
+  src: url(https://web.archive.org/web/20210318001149im_/https://fonts.gstatic.com/s/titilliumweb/v9/NaPecZTIAOhVxoMyOr9n_E7fdMPmCA.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Titillium Web';
+  font-style: normal;
+  font-weight: 600;
+  src: url(https://web.archive.org/web/20210318001149im_/https://fonts.gstatic.com/s/titilliumweb/v9/NaPDcZTIAOhVxoMyOr9n_E7ffBzCGItzZg.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Titillium Web';
+  font-style: normal;
+  font-weight: 700;
+  src: url(https://web.archive.org/web/20210318001149im_/https://fonts.gstatic.com/s/titilliumweb/v9/NaPDcZTIAOhVxoMyOr9n_E7ffHjDGItzZg.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Titillium Web';
+  font-style: normal;
+  font-weight: 900;
+  src: url(https://web.archive.org/web/20210318001149im_/https://fonts.gstatic.com/s/titilliumweb/v9/NaPDcZTIAOhVxoMyOr9n_E7ffEDBGItzZg.ttf) format('truetype');
+}
+
+/*
+     FILE ARCHIVED ON 00:11:49 Mar 18, 2021 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 17:48:42 Sep 03, 2021.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+*/
+/*
+playback timings (ms):
+  PetaboxLoader3.resolve: 36.914
+  esindex: 0.023
+  RedisCDXSource: 11.542
+  exclusion.robots.policy: 0.329
+  exclusion.robots: 0.353
+  captures_list: 313.369
+  load_resource: 59.77
+  PetaboxLoader3.datanode: 124.196 (4)
+  CDXLines.iter: 43.741 (3)
+  LoadShardBlock: 177.253 (3)
+*/
